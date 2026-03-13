@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal architectural photograph of a vast, impossible staircase system. Three separate staircases, each ascending gently upward from left to right, are arranged in parallel. Each staircase is made of warm, sunlit stone and appears stable and functional. However, when the eye follows all three staircases together as a single visual field, the overall impression is of a steep descent — the collective structure slopes downward dramatically. The lighting creates sharp shadows that emphasize the contradiction: each local staircase has upward-cast shadows, but the global shadow of the entire assembly falls downward. The scene is photorealistic, shot with a large-format camera, extreme depth of field, no people, no text, no labels.",
+  "model": "Flux Pro 1.1",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Three parallel staircases each ascend locally, but their collective arrangement descends globally — local upward trends reverse when aggregated, exactly like Simpson's Paradox."
+}
